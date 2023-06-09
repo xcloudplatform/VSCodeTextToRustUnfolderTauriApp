@@ -1,0 +1,2 @@
+# VSCodeTextToRustUnfolderTauriApp
+Tauri app displaying VSCodeTextToRustUnfolder generator/viewer interface, additionally remotely
